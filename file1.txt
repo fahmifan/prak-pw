@@ -1,1 +1,3 @@
-ini adalaha file pertama
+ini adalah file pertama
+Yay, praktikum PW
+Nama Saya fahmi
